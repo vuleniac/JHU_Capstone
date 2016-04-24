@@ -1,0 +1,8 @@
+name: Shiny
+account: vuleniac
+server: shinyapps.io
+bundleId: 416533
+url: https://vuleniac.shinyapps.io/Shiny/
+when: 1460406349.0094
+asMultiple: FALSE
+asStatic: FALSE
